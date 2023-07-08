@@ -1,0 +1,16 @@
+PODS:
+  - ResearchKit (2.1.0)
+
+DEPENDENCIES:
+  - ResearchKit
+
+SPEC REPOS:
+  trunk:
+    - ResearchKit
+
+SPEC CHECKSUMS:
+  ResearchKit: d7fba1d5b00f5dd299373e46727c5940fc5c1890
+
+PODFILE CHECKSUM: 546996111385401336b51fc00284f1d89e6762c5
+
+COCOAPODS: 1.11.3
